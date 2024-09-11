@@ -82,6 +82,13 @@ To deploy the Azure bot:
 
    ![image](https://github.com/user-attachments/assets/078fc533-8411-4ed8-9371-f980ac5885e5)
 
+### Customization
+
+You can customize the QnA bot by:
+- Adding more documents to the knowledge base.
+- Training the model for better accuracy.
+- Modifying response logic to enhance user experience.
+- Integrating with other Azure services like Cognitive Search, Azure Functions, etc.
 
 
 
