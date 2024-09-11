@@ -35,3 +35,11 @@ This repository contains the code and resources for building a custom Question &
 - Create a Language Service resource in the Azure portal.
 - Enable Custom Question Answering and create a knowledge base.
 - Retrieve the Language Service Endpoint, Key, and Knowledge Base ID.
+
+4. **Update environment variables: Create a .env file in the root directory and add the following:**
+   ```bash
+   AZURE_LANGUAGE_ENDPOINT=<your-language-service-endpoint>
+   AZURE_LANGUAGE_KEY=<your-language-service-key>
+   KNOWLEDGE_BASE_ID=<your-knowledge-base-id>
+
+### Usage
