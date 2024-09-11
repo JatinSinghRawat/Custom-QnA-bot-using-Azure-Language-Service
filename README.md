@@ -12,7 +12,7 @@ This repository contains the code and resources for building a custom Question &
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - An Azure subscription. If you don't have one, [create a free Azure account](https://azure.microsoft.com/free/).
 - Azure Language Service enabled in your Azure subscription.
@@ -20,7 +20,7 @@ This repository contains the code and resources for building a custom Question &
 - Azure CLI installed on your machine.
 - Knowledge of JavaScript or Python, depending on the codebase provided.
 
-### Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**:
    ```bash
@@ -42,15 +42,15 @@ This repository contains the code and resources for building a custom Question &
    AZURE_LANGUAGE_KEY=<your-language-service-key>
    KNOWLEDGE_BASE_ID=<your-knowledge-base-id>
 
-### Usage
+## Usage
 To run the bot locally:
 ```bash
  npm start
 ```
 Visit http://localhost:3978 to interact with the bot. You can also connect the bot to other channels like Microsoft Teams or Slack for a wider audience.
 
-### Deployment
- To deploy the Azure bot:
+## Deployment
+To deploy the Azure bot:
 1. In Language Studio, on the custom question answering Deploy project page, select the Create a bot button.
    ![image](https://github.com/user-attachments/assets/ee969801-be60-4197-b9ff-4af4f99bb7ba)
 
@@ -82,8 +82,7 @@ Visit http://localhost:3978 to interact with the bot. You can also connect the b
 
    ![image](https://github.com/user-attachments/assets/078fc533-8411-4ed8-9371-f980ac5885e5)
 
-### Customization
-
+## Customization
 You can customize the QnA bot by:
 - Adding more documents to the knowledge base.
 - Training the model for better accuracy.
@@ -92,16 +91,13 @@ You can customize the QnA bot by:
 
 ![Screenshot 2024-09-11 222839](https://github.com/user-attachments/assets/3c6d46ff-451d-42c7-9542-209ded41c9f9)
 
-### Contributing
-
+## Contributing
 Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
 
-### License
-
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Refrences
-
+## Refrences
 1. Using Chatgpt
 2. https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/bot-service
 3. Youtube- https://youtu.be/P7JVL_3__wk?si=nTx47BhzR169CIgA 
