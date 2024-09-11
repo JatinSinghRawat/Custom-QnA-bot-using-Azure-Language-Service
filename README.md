@@ -100,6 +100,11 @@ Contributions are welcome! Please read the contributing guidelines before submit
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+### Refrences
+
+1. Using Chatgpt
+2. https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/bot-service
+3. Youtube- https://youtu.be/P7JVL_3__wk?si=nTx47BhzR169CIgA 
 
 
 
