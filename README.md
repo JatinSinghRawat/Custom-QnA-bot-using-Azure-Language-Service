@@ -68,4 +68,20 @@ To deploy the Azure bot:
 | Language Resource Key | This key is automatically populated deployed custom question answering project |
 | App service plan/Location | This value is automatically populated, do not change this value            | 
 
+3. After the bot is created, open the Bot service resource.
+   
+4. Under Settings, select Test in Web Chat.
+
+![image](https://github.com/user-attachments/assets/92674de5-b221-4a62-94a8-4b6baa96faf8)
+
+5. At the chat prompt of Type your message, enter:
+   ```bash
+   How do I set up my surface book?
+   ```
+   The chatbot responds with an answer from your project.
+
+   ![image](https://github.com/user-attachments/assets/078fc533-8411-4ed8-9371-f980ac5885e5)
+
+
+
 
