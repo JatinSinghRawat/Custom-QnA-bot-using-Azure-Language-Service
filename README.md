@@ -56,4 +56,11 @@ To deploy the Azure bot:
 
 2. A new browser tab opens for the Azure portal, with the Azure AI Bot Service's creation page. Configure the Azure AI Bot Service and hit the Create button.
 
+| Setting         | Value                                                                                               | 
+|-----------------|-----------------------------------------------------------------------------------------------------|
+| Bot handle      | Unique identifier for your bot. This value needs to be distinct from your App name.                 | 
+| Subscription    | Select your subscription.                                                                           | 
+| Location        | Select your desired location.                                                                       | 
+
+
 
