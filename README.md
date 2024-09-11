@@ -43,3 +43,8 @@ This repository contains the code and resources for building a custom Question &
    KNOWLEDGE_BASE_ID=<your-knowledge-base-id>
 
 ### Usage
+To run the bot locally:
+ ```bash
+  npm start
+
+Visit http://localhost:3978 to interact with the bot. You can also connect the bot to other channels like Microsoft Teams or Slack for a wider audience.
