@@ -30,3 +30,8 @@ This repository contains the code and resources for building a custom Question &
 2. **Install Dependencies:**
    ```bash
    npm install
+
+3. **Configure Azure Language Service:**
+- Create a Language Service resource in the Azure portal.
+- Enable Custom Question Answering and create a knowledge base.
+- Retrieve the Language Service Endpoint, Key, and Knowledge Base ID.
