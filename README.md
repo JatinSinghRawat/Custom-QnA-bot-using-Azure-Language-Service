@@ -56,11 +56,16 @@ To deploy the Azure bot:
 
 2. A new browser tab opens for the Azure portal, with the Azure AI Bot Service's creation page. Configure the Azure AI Bot Service and hit the Create button.
 
-| Setting         | Value                                                                                               | 
-|-----------------|-----------------------------------------------------------------------------------------------------|
-| Bot handle      | Unique identifier for your bot. This value needs to be distinct from your App name.                 | 
-| Subscription    | Select your subscription.                                                                           | 
-| Location        | Select your desired location.                                                                       | 
-
+| Setting         | Value                                                                               | 
+|-----------------|-------------------------------------------------------------------------------------|
+| Bot handle      | Unique identifier for your bot. This value needs to be distinct from your App name. | 
+| Subscription    | Select your subscription.                                                           | 
+| Resource group  | Select an existing resource group or create a new one                               |
+| Location        | Select your desired location.                                                       | 
+| Pricing tier    | Choose pricing tier                                                                 |
+| App name        | App service name for your bot                                                       |
+| SDK language    | C# or Node.js. Once the bot is created, you can download the code to your local development environment and continue the development process.|
+| Language Resource Key | This key is automatically populated deployed custom question answering project |
+| App service plan/Location | This value is automatically populated, do not change this value            | 
 
 
