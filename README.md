@@ -48,3 +48,12 @@ To run the bot locally:
 npm start
 ```
 Visit http://localhost:3978 to interact with the bot. You can also connect the bot to other channels like Microsoft Teams or Slack for a wider audience.
+
+### Deployment
+To deploy the Azure bot:
+1. In Language Studio, on the custom question answering Deploy project page, select the Create a bot button.
+   ![image](https://github.com/user-attachments/assets/ee969801-be60-4197-b9ff-4af4f99bb7ba)
+
+2. A new browser tab opens for the Azure portal, with the Azure AI Bot Service's creation page. Configure the Azure AI Bot Service and hit the Create button.
+
+
