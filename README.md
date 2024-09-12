@@ -38,9 +38,9 @@ This repository contains the code and resources for building a custom Question &
 
 4. **Update environment variables: Create a .env file in the root directory and add the following:**
    ```bash
-   AZURE_LANGUAGE_ENDPOINT=<your-language-service-endpoint>
-   AZURE_LANGUAGE_KEY=<your-language-service-key>
-   KNOWLEDGE_BASE_ID=<your-knowledge-base-id>
+   AZURE_LANGUAGE_ENDPOINT="<your-language-service-endpoint>"
+   AZURE_LANGUAGE_KEY="<your-language-service-key>"
+   KNOWLEDGE_BASE_ID="<your-knowledge-base-id>"
 
 ## Usage
 To run the bot locally:
